@@ -1,5 +1,5 @@
-**이름** : 허명철
-**이메일** : soon3771@koreatech.ac.kr
+**이름** : 허명철<br>
+**이메일** : soon3771@koreatech.ac.kr<br>
 **학교** : 한국기술교육대학교
 
 ---
@@ -32,4 +32,4 @@
 ---
 
 ### 📝 Blog
-* [https://your-id.github.io](https://your-id.github.io)
+추후 만들 예정
