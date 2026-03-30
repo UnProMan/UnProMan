@@ -1,36 +1,35 @@
-# 안녕하세요! 기술로 따뜻한 변화를 만드는 개발자 OOO입니다.
-
-다양한 사람들과 소통해 온 경험을 바탕으로, 사용자 중심의 서비스를 고민하고 개발합니다. 
-꾸준함과 성실함을 무기로 깊이 있게 탐구하며 문제를 해결하는 과정을 즐깁니다.
+**이름** : 허명철
+**이메일** : soon3771@koreatech.ac.kr
+**학교** : 한국기술교육대학교
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+**Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**AI / Deep Learning**
+**Frameworks**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Environment & Tools**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+---
+
+### 🏆 Awards & Publications
+
+* **2021 전국기능경기대회**
+  * 정보기술 직종 3위 (동메달)
+* **Mobile AI 2025 Challenge**
+  * 공동 저자 - [*Quantized Image Super-Resolution on Mobile Npus, Mobile AI 2025 Challenge: Report*](https://openaccess.thecvf.com/content/CVPR2025W/MAI/papers/Ignatov_Quantized_Image_Super-Resolution_on_Mobile_NPUs_Mobile_AI_2025_Challenge_CVPRW_2025_paper.pdf)
 
 ---
 
-### 💻 Projects
-
-* **3D Human Pose Estimation 모델 연구** * 맞춤형 딥러닝 모델 개발 및 성능 개선 연구 (논문 작성 중)
-* **가치타 (Gachita)** * 대학생 대상 택시/카풀 매칭 안드로이드 앱 기획 및 개발
-* **온디바이스 AI 성능 벤치마킹 앱**
-  * Kotlin 기반 다양한 기기에서의 TFLite 모델 구동 테스트 및 성능 분석
-
----
-
-### 📬 Contact & Links
-* 📧 Email: your.email@example.com
-* 📝 Blog: [https://your-id.github.io](https://your-id.github.io)
+### 📝 Blog
+* [https://your-id.github.io](https://your-id.github.io)
